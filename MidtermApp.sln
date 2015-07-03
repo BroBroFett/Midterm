@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidtermApp", "MidtermApp\MidtermApp.csproj", "{E97C14FA-AA60-4214-A9AC-221F6CEAFE7D}"
 EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "MidtermApp.Azure", "MidtermApp.Azure\MidtermApp.Azure.ccproj", "{2FA8A16C-B46D-4429-836B-4E78B4ECBD93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E97C14FA-AA60-4214-A9AC-221F6CEAFE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E97C14FA-AA60-4214-A9AC-221F6CEAFE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E97C14FA-AA60-4214-A9AC-221F6CEAFE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA8A16C-B46D-4429-836B-4E78B4ECBD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA8A16C-B46D-4429-836B-4E78B4ECBD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA8A16C-B46D-4429-836B-4E78B4ECBD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA8A16C-B46D-4429-836B-4E78B4ECBD93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
